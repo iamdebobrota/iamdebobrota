@@ -1,3 +1,6 @@
+<img src="https://pbs.twimg.com/profile_banners/1510297556538081286/1648919576/1080x360"/>
+
+
 <h1 align="center">Hi 👋, I'm Debobrota Haldar</h1>
 <h3 align="center">A passionate learner, and a full stack Web developer</h3>
 
