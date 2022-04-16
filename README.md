@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **React,node js**
 
-- 📝 I regularly write articles on [https://medium.com/@nayanhaldar30](https://medium.com/@nayanhaldar30)
+- 📝 I regularly write articles on [https://medium.com/@iamdebobrota](https://medium.com/@iamdebobrota)
 
 - 💬 Ask me about **JavaScript, HTML, CSS, and DSA**
 
