@@ -9,11 +9,11 @@
 
 - 🔭 I’m currently working on **Data Structures and Algorithms**
 
-- 🌱 I’m currently learning **React,node js**
+- 🌱 I’m currently learning **node js**
 
 - 📝 I regularly write articles on [https://medium.com/@iamdebobrota](https://medium.com/@iamdebobrota)
 
-- 💬 Ask me about **JavaScript, HTML, CSS, and DSA**
+- 💬 Ask me about **JavaScript, HTML, CSS, React, Node Js and DSA**
 
 - 📫 How to reach me **iamdebobrota@gmail.com**
 
