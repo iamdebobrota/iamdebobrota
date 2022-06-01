@@ -33,6 +33,9 @@
   <a href="https://www.w3schools.com/redux/" target="_blank" rel="noreferrer"> <img src="https://redux.js.org/img/redux-logo-landscape.png" alt="typescript" width="80" height="40"/> </a>
   
   <a href="https://www.w3schools.com/typescript/" target="_blank" rel="noreferrer"> <img src="https://blog.theodo.com/static/ba2166b279b234c4824d1c2fb299ced2/a79d3/ts_logo.png" alt="typescript" width="80" height="40"/> </a>
+  
+    <a href="https://www.w3schools.com/typescript/" target="_blank" rel="noreferrer"> <img src="https://g.foolcdn.com/art/companylogos/square/mdb.png" alt="mongodb" width="80" height="40"/> </a>
+  
 </p>
 
 
