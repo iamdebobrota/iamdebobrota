@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iamdebobrota" alt="iamdebobrota" /></a> </p>
 
-- 🔭 I’m currently working on **Ecommerce App using React**
+- 🔭 I’m currently working on **Express**
 
 - 🌱 I’m currently learning **node js**
 
