@@ -1,4 +1,4 @@
-<img src="https://pbs.twimg.com/profile_banners/1510297556538081286/1648919576/1080x360"/>
+
 
 <h1 align="center">Hi 👋, I'm Debobrota Haldar</h1>
 <h3 align="center">I am a full stack web developer from Masai school, I'm a passionate learner who's always willing to learn and work across technology and domains. I love to explore new technologies and leverage them to solve real-life problems. I'm deep into Web Development.</h3>
