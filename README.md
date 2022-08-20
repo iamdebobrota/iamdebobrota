@@ -1,6 +1,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Debobrota Haldar</h1>
+<img src='https://pbs.twimg.com/media/Fam2OmpaQAEMpwP?format=jpg&name=large' alt='banner' />
 <h3 align="center">I am a full-stack web developer from Masai school, a passionate learner who's always willing to learn and work across technology and domains. I love to explore new technologies and leverage them to solve real-life problems. I'm deep into Web Development.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamdebobrota&label=Profile%20views&color=0e75b6&style=flat" alt="iamdebobrota" /> </p>
