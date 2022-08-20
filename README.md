@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on **DSA**
 
-- 🌱 I’m currently learning **node js**
+- 🌱 I’m currently learning **socket.io**
 
 - 📝 I regularly write articles on [https://medium.com/@iamdebobrota](https://medium.com/@iamdebobrota)
 
