@@ -14,7 +14,7 @@
 
 - 📝 I regularly write articles on [https://medium.com/@iamdebobrota](https://medium.com/@iamdebobrota)
 
-- 💬 Ask me about **JavaScript, HTML, CSS, React, Node Js and DSA**
+- 💬 Ask me about **JavaScript, HTML, CSS, React, Redux, Next JS,  Node Js, Express, MongoDB and DSA**
 
 - 📫 My Portfolio : **https://debobrota-haldar.netlify.app**
 - 📫 How to reach me **iamdebobrota@gmail.com**
